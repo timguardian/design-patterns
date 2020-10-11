@@ -1,2 +1,2 @@
-# design-patterns
-Programming design patterns repository
+# Design Patterns
+Software design patterns
